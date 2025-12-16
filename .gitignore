@@ -1,0 +1,29 @@
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+.vs/
+*.log
+.idea/
+*.vscode/
+*.DS_Store
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Build directories
+**/bin/
+**/obj/
+
+# Visual Studio cache
+.vs/
+
+# Rider caches
+.idea/
